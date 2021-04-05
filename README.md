@@ -27,6 +27,20 @@ STEP 4: Click on feedback. Here you can write in the comment section. You can wr
 Using this web application user can stusy interesting things about algorithms and learn how they actually work.
 ## Making
 It has been created using JavaScript, CSS, SCSS, ReactJS, HTML5, Vercel, Firebase, Chat Engine XDK, nodejs and Formik. It is fully responsive.
+## Screenshots :point_down: 
+<img src="s1.PNG" width="450" height= "250"> <img src="s2.PNG" width="450" height= "250">
+
+<img src="s3.PNG" width="450" height= "250"> <img src="s4.PNG" width="450" height= "250">
+
+<img src="s5.PNG" width="450" height= "250"> <img src="s6.PNG" width="450" height= "250">
+
+<img src="s7.PNG" width="450" height= "250"> <img src="s8.PNG" width="450" height= "250">
+
+<img src="s9.PNG" width="450" height= "250"> <img src="s10.PNG" width="450" height= "250">
 
 
+<img src="s11.PNG" width="450" height= "250"> <img src="s12.PNG" width="450" height= "250">
 
+<img src="s13.PNG" width="450" height= "250"> <img src="s14.PNG" width="450" height= "250">
+
+<img src="s15.PNG" width="450" height= "250"> <img src="s16.PNG" width="450" height= "250">
