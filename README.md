@@ -26,7 +26,7 @@ STEP 4: Click on feedback. Here you can write in the comment section. You can wr
 ## Importance
 Using this web application user can stusy interesting things about algorithms and learn how they actually work.
 ## Making
-It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Vercel, Firebase, Chat Engine XDK, nodejs and Formik. It is fully responsive. For references for algorithms I have used [geeksforgeeks](https://www.geeksforgeeks.org/) and [wikipedia](https://www.wikipedia.org/). For all custom images I have used [photoshop](www.adobe.com/Adobe/Photoshop).
+It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Vercel, Firebase, Chat Engine XDK, nodejs and Formik. It is fully responsive. For references for algorithms I have used [geeksforgeeks](https://www.geeksforgeeks.org/) and [wikipedia](https://www.wikipedia.org/). For all custom images in algorithms part I have used [photoshop](www.adobe.com/Adobe/Photoshop). In discussion part for chatting I have used [chat engine](https://chatengine.io/).
 ## Screenshots :point_down: 
 <div align="center">
 <img src="s1.PNG" width="450" height= "250"> <img src="s2.PNG" width="450" height= "250">
