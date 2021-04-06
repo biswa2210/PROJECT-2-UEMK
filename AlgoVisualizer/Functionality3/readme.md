@@ -1,6 +1,6 @@
 [![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-css3-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-javascript-yellow)](https://shields.io/)
 
-# ALGORIHMS-VIUALIZER-PART :star_struck:
+# DISCUSSION-PART :star_struck:
 
 ***This new Web application is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
@@ -23,14 +23,12 @@ Discussion is important for any queries of user. When developers guide the user 
 It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Firebase, Chat Engine XDK, nodejs and Formik. It is fully responsive. For references for algorithms I have used [geeksforgeeks](https://www.geeksforgeeks.org/) and [wikipedia](https://www.wikipedia.org/). 
 ## Screenshots :point_down: 
 <div align="center">
+ 
 <img src="s1.PNG" width="450" height= "250"> <img src="s2.PNG" width="450" height= "250">
 
-<img src="s3.PNG" width="450" height= "250"> <img src="s4.PNG" width="450" height= "250">
+<img src="s11.PNG" width="450" height= "250"> <img src="s16.PNG" width="450" height= "250">
 
-<img src="s5.PNG" width="450" height= "250"> <img src="s6.PNG" width="450" height= "250">
-
- <img src="s16.PNG" width="450" height= "250">
- </div>
+</div>
 
 
 
