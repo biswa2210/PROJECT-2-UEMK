@@ -28,6 +28,7 @@ Using this web application user can stusy interesting things about algorithms an
 ## Making
 It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Vercel, Firebase, Chat Engine XDK, nodejs and Formik. It is fully responsive. For references for algorithms I have used _[geeksforgeeks]_(https://www.geeksforgeeks.org/) and _[wikipedia]_(https://www.wikipedia.org/). For all custom images I have used [photoshop](www.adobe.com/Adobe/Photoshop).
 ## Screenshots :point_down: 
+<div align="center">
 <img src="s1.PNG" width="450" height= "250"> <img src="s2.PNG" width="450" height= "250">
 
 <img src="s3.PNG" width="450" height= "250"> <img src="s4.PNG" width="450" height= "250">
@@ -38,9 +39,9 @@ It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advan
 
 <img src="s9.PNG" width="450" height= "250"> <img src="s10.PNG" width="450" height= "250">
 
-
 <img src="s11.PNG" width="450" height= "250"> <img src="s12.PNG" width="450" height= "250">
 
 <img src="s13.PNG" width="450" height= "250"> <img src="s14.PNG" width="450" height= "250">
 
 <img src="s15.PNG" width="450" height= "250"> <img src="s16.PNG" width="450" height= "250">
+ </div>
