@@ -1,4 +1,7 @@
 [![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-css3-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-javascript-yellow)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/advance-bootstrap4-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-scss-brightgreen)](https://shields.io/) 
+
+
 
 # ALGORIHMS-VIUALIZER-WEB-APPLICATION :star_struck:
 
@@ -19,10 +22,10 @@ I have made this website to easily study algorithms.
 To use this Algorithm Visualizer, user have to follow these steps given below:
 First you have to open the provided link. Then a sign up or login page will open. If you are opening it for first time select sign up option. Give your username, email id, password, verify password. If you have already signed up, then go to login option. Give your email, password, confirm password. 
 Then you have entered in the main page or home page. Here you can see your email id and a firebase-provided password. 
-STEP 1: Click on Visualize Algorithms. Here you can watch and understand working of some specific algorithms. Go back to main page.
-STEP 2: Click on Algorithms. Here you can see total 72 algorithms. Sorting, Searching and Others algorithms. Click any of them in learn more button to read their details. Go back to main page.
-STEP 3: Click on discussions. Here you have to enter your username and password (firebase-provided password in home page). Then you will be added in a discussion group for doubt clearing where the developers will answer your questions regarding this website. Go back to main page.
-STEP 4: Click on feedback. Here you can write in the comment section. You can write about how much this website is useful or any idea for improvement in this website. Go back to main page.
+1.Click on Visualize Algorithms. Here you can watch and understand working of some specific algorithms. Go back to main page.
+2.Click on Algorithms. Here you can see total 72 algorithms. Sorting, Searching and Others algorithms. Click any of them in learn more button to read their details. Go back to main page.
+3.Click on discussions. Here you have to enter your username and password (firebase-provided password in home page). Then you will be added in a discussion group for doubt clearing where the developers will answer your questions regarding this website. Go back to main page.
+4.Click on feedback. Here you can write in the comment section. You can write about how much this website is useful or any idea for improvement in this website. Go back to main page.
 ## Importance :point_down:
 Using this web application user can stusy interesting things about algorithms and learn how they actually work.
 ## Making :point_down:
