@@ -32,6 +32,7 @@ Using this web application user can stusy interesting things about algorithms an
 ## Making :point_down:
 It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Vercel, Firebase, Chat Engine XDK, nodejs and Formik. It is fully responsive.<br>
 I have used @mediascreens for making it responsive. I have used [nodejs](https://nodejs.org) and [vercel](https://vercel.com).<br>
+I have used blob effect in css and [svg](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics) in the main page.<br>
 For references for algorithms I have used [geeksforgeeks](https://www.geeksforgeeks.org/) and [wikipedia](https://www.wikipedia.org/).<br>
 For all custom images in algorithms part I have used [photoshop](www.adobe.com/Adobe/Photoshop).<br>
 For backend I have used [firebase](https://firebase.google.com/) which provides a user secret to every user which they use for discussion portion.
