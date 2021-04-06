@@ -20,7 +20,8 @@ Clicking on Visualize Algorithms user can see searching visualizer and there in 
 ## Importance :point_down:
  Learning an algorithm gets much easier with visualizing it. So it is a great way to study and understand algotihms.
 ## Making :point_down:
-It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Vercel, Firebase, Chat Engine XDK, nodejs and Formik. It is fully responsive. For references for algorithms I have used [geeksforgeeks](https://www.geeksforgeeks.org/) and [wikipedia](https://www.wikipedia.org/). 
+It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, nodejs. It is fully responsive.<br>
+For references for algorithms I have used [geeksforgeeks](https://www.geeksforgeeks.org/) and [wikipedia](https://www.wikipedia.org/). 
 ## Screenshots :point_down: 
 <div align="center">
 <img src="s1.PNG" width="450" height= "250"> <img src="s2.PNG" width="450" height= "250">
@@ -29,5 +30,5 @@ It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advan
 
 <img src="s5.PNG" width="450" height= "250"> <img src="s6.PNG" width="450" height= "250">
 
- <img src="s16.PNG" width="450" height= "250">
- </div>
+<img src="s16.PNG" width="450" height= "250">
+</div>
