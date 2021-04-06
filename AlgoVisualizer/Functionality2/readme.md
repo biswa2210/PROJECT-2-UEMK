@@ -1,17 +1,33 @@
-# ALGORIHMS-PART
-## This new Web application is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.
-## Email Id: bbiswa471@gmail.com. 
-## Contact No: 916290272740. 
-## About 
-It is the 2nd functionality of my project. In mathematics and computer science, an algorithm is a finite sequence of well-defined, computer-implementable instructions, typically to solve a class of problems or to perform a computation. Algorithms are always unambiguous and are used as specifications for performing calculations, data processing, automated reasoning, and other tasks. As an effective method, an algorithm can be expressed within a finite amount of space and time, and in a well-defined formal language for calculating a function. This part provides 72 cards containing details of different algorithms. Here are 3 types of algorithms, searching, sorting and others.
-## LINK : https://algo-visualize-algorithms.netlify.app/
-## Purpose
-I have made this to make learning algorithms an interesting, facsinating and easy work. 
-## Use
-Clicking on Algorithms user can see 72 cards of different algorithms. When user clicks on "learn more" in card a page opens showing time complexity, space complexity, definitions etc details.
-## Importance
- Learning an algorithm gets much easier with getting compact details without searching in goolge or in any book. So it is a great way to study and understand algotihms.
-# ALGO-VISUALIZE-PART
- I have used HTML5, CSS3, JAVASCRIPT, REACT to make this. It is fully responsive.
+[![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-css3-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-javascript-yellow)](https://shields.io/)
 
+# ALGORIHMS-PART :star_struck:
+
+***This new Web application is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
+
+**Email Id: bbiswa471@gmail.com.** 
+
+**Contact No: 916290272740.** 
+
+[![Generic badge](https://img.shields.io/badge/contact%20me-facebook-blue)](https://www.facebook.com/biswarup.bhattacharjee.5811) [![Generic badge](https://img.shields.io/badge/visit%20my%20projects%20-github-brightgreen)](https://github.com/biswa2210)
+
+## About :point_down: 
+*It is the 2nd functionality of my project.* In mathematics and computer science, an algorithm is a finite sequence of well-defined, computer-implementable instructions, typically to solve a class of problems or to perform a computation. Algorithms are always unambiguous and are used as specifications for performing calculations, data processing, automated reasoning, and other tasks. As an effective method, an algorithm can be expressed within a finite amount of space and time, and in a well-defined formal language for calculating a function. This part provides 72 cards containing details of different algorithms. Here are 3 types of algorithms, searching, sorting and others.
+## LINK : :point_right:https://algo-visualize-algorithms.netlify.app/
+## Purpose :point_down:
+I have made this to make learning algorithms an interesting, facsinating and easy work. 
+## Use :point_down:
+Clicking on Algorithms user can see 72 cards of different algorithms. When user clicks on "learn more" in card a page opens showing time complexity, space complexity, definitions etc details.
+## Importance :point_down:
+ Learning an algorithm gets much easier with getting compact details without searching in goolge or in any book. So it is a great way to study and understand algotihms.
+## Making :point_down:
+It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Vercel, Firebase, Chat Engine XDK, nodejs and Formik. It is fully responsive. For references for algorithms I have used [geeksforgeeks](https://www.geeksforgeeks.org/) and [wikipedia](https://www.wikipedia.org/). For all custom images in algorithms part I have used [photoshop](www.adobe.com/Adobe/Photoshop). 
+## Screenshots :point_down: 
+<div align="center">
+<img src="s1.PNG" width="450" height= "250"> <img src="s7.PNG" width="450" height= "250">
+
+<img src="s8.PNG" width="450" height= "250"> <img src="s9.PNG" width="450" height= "250">
+
+<img src="s10.PNG" width="450" height= "250"> <img src="s16.PNG" width="450" height= "250">
+
+ </div>
 
