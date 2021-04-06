@@ -1,4 +1,4 @@
-[![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-css3-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-javascript-yellow)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-css3-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-javascript-yellow)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-bootstrap4-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-scss-brightgreen)](https://shields.io/)
 
 # LOGIN/SIGNUP-PART :star_struck:
 
@@ -20,7 +20,7 @@ User(first time) has to give his username, password and valid email id. While lo
 ## Importance :point_down:
 Login system is important for any web application or android application for user's personalization and data safety. No one can see user's personal messages in discussion section or any other thing related to his account in algorithm visualizer.
 ## Making :point_down:
-It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Vercel, Firebase, nodejs and Formik. It is fully responsive. 
+It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Vercel, Firebase, nodejs and Formik. It is fully responsive. I have connected the user name with [chat engine](https://www.chatengine.io/). In the main page the user secret for each user is provided by [firebase](https://firebase.google.com/). I have used [vercel](https://vercel.com) and [nodejs](https://nodejs.org/en/).
 ## Screenshots :point_down: 
 <div align="center">
  
