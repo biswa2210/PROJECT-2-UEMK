@@ -23,11 +23,14 @@ Clicking on Algorithms user can see 72 cards of different algorithms. When user 
 It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Vercel, Firebase, Chat Engine XDK, nodejs and Formik. It is fully responsive. For references for algorithms I have used [geeksforgeeks](https://www.geeksforgeeks.org/) and [wikipedia](https://www.wikipedia.org/). For all custom images in algorithms part I have used [photoshop](www.adobe.com/Adobe/Photoshop). 
 ## Screenshots :point_down: 
 <div align="center">
-<img src="s1.PNG" width="450" height= "250"> <img src="s7.PNG" width="450" height= "250">
+ 
+<img src="s1.PNG" width="450" height= "250"> <img src="s2.PNG" width="450" height= "250">
 
-<img src="s8.PNG" width="450" height= "250"> <img src="s9.PNG" width="450" height= "250">
+<img src="s7.PNG" width="450" height= "250"> <img src="s8.PNG" width="450" height= "250">
 
-<img src="s10.PNG" width="450" height= "250"> <img src="s16.PNG" width="450" height= "250">
+<img src="s9.PNG" width="450" height= "250"> <img src="s10.PNG" width="450" height= "250">
 
- </div>
+<img src="s16.PNG" width="450" height= "250">
+
+</div>
 
