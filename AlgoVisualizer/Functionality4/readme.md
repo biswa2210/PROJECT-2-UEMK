@@ -12,7 +12,7 @@
 
 ## About :point_down: 
 *It is the 4 th functionality of my project.* Website feedback is information obtained directly from website users—through on-page surveys, feedback widgets, and other techniques—to help organizations understand what people think (and how they feel) about their websites and landing pages. It has 4 pages containing algorithms visualizer overview, about the 4 functionalities, userguide, contact us portion. There is also an option to send feedback about this web application.
-## LINK : :point_right: algo-visualize-feedback.netlify.app
+## LINK : :point_right: https://algo-visualize-feedback.netlify.app/
 ## Purpose :point_down:
 I have added this section because here user can read about this web application, user guide which will be helpful for him. I have given feedback area so that user can write to me about my algo visualizer project. User's feedback is important to me because only in this way I can know how I should make my work more advance.
 ## Use :point_down:
