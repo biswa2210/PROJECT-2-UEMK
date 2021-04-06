@@ -20,7 +20,7 @@ User(first time) has to give his username, password and valid email id. While lo
 ## Importance :point_down:
 Login system is important for any web application or android application for user's personalization and data safety. No one can see user's personal messages in discussion section or any other thing related to his account in algorithm visualizer.
 ## Making :point_down:
-It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Vercel, Firebase, nodejs and Formik. It is fully responsive. For references for algorithms I have used [geeksforgeeks](https://www.geeksforgeeks.org/) and [wikipedia](https://www.wikipedia.org/). For all custom images in algorithms part I have used [photoshop](www.adobe.com/Adobe/Photoshop). 
+It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Vercel, Firebase, nodejs and Formik. It is fully responsive. 
 ## Screenshots :point_down: 
 <div align="center">
  
