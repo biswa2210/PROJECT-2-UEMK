@@ -20,7 +20,7 @@ Click on discussions. Here user has to enter his username and password (firebase
 ## Importance :point_down:
 Discussion is important for any queries of user. When developers guide the user properly it will very helpful for the user to explore the web site and study algorithms.
 ## Making :point_down:
-It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Firebase, Chat Engine XDK, nodejs and Formik. It is fully responsive. For references for algorithms I have used [geeksforgeeks](https://www.geeksforgeeks.org/) and [wikipedia](https://www.wikipedia.org/). 
+It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Firebase, Chat Engine XDK, nodejs and Formik. It is fully responsive. For chatting I have used [chat engine](https://chatengine.io/). For password I have used [firebase](https://firebase.google.com/).
 ## Screenshots :point_down: 
 <div align="center">
  
