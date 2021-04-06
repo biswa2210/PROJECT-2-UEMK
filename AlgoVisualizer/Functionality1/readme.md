@@ -20,7 +20,7 @@ Clicking on Visualize Algorithms user can see searching visualizer and there in 
 ## Importance :point_down:
  Learning an algorithm gets much easier with visualizing it. So it is a great way to study and understand algotihms.
 ## Making :point_down:
-It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Vercel, Firebase, Chat Engine XDK, nodejs and Formik. It is fully responsive. For references for algorithms I have used [geeksforgeeks](https://www.geeksforgeeks.org/) and [wikipedia](https://www.wikipedia.org/). For all custom images in algorithms part I have used [photoshop](www.adobe.com/Adobe/Photoshop). In discussion part for chatting I have used [chat engine](https://chatengine.io/).
+It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Vercel, Firebase, Chat Engine XDK, nodejs and Formik. It is fully responsive. For references for algorithms I have used [geeksforgeeks](https://www.geeksforgeeks.org/) and [wikipedia](https://www.wikipedia.org/). 
 ## Screenshots :point_down: 
 <div align="center">
 <img src="s1.PNG" width="450" height= "250"> <img src="s2.PNG" width="450" height= "250">
