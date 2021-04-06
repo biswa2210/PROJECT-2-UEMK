@@ -1,17 +1,3 @@
-# FEEDBACK-PART
-## This new Web application is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.
-## Email Id: bbiswa471@gmail.com. 
-## Contact No: 916290272740. 
-## About 
-
-## LINK : 
-## Purpose
-
-## Use
-
-## Importance
-
-
 [![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-css3-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-javascript-yellow)](https://shields.io/)
 
 # FEEDBACK-PART :star_struck:
