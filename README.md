@@ -32,18 +32,18 @@ Using this web application user can stusy interesting things about algorithms an
 ## Folder Structure :point_down:
 ```bash
 ├── PROJECT-2-UEMK
-│   ├── functionality1
-│   │       └──AlgoVisualizer
-│   |            ├──sorting
-│   |            └──searching
-│   ├── functionality2
+│   ├── Functionality1
+│   │       └──algo-visualize
+│   |            ├──Searching-Visualizer
+│   |            └──Sorting-Visualizer
+│   ├── Functionality2
 │   |       └──algo-catalog
-│   ├── functionality3
-│   |       └── discussion
-|   └── functionality4
+│   ├── Functionality3
+│   |       └── discussionpart
+|   └── Functionality4
 |           └──feedback
 |
-└──Algovisualizeloginsignup
+└──algo-visualize-loginsignup
 ```
 ## Making :point_down:
 It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Vercel, Firebase, Chat Engine XDK, nodejs and Formik. It is fully responsive.<br>
