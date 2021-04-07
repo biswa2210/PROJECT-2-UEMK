@@ -33,17 +33,17 @@ Using this web application user can stusy interesting things about algorithms an
 ```bash
 ├── PROJECT-2-UEMK
 │   ├── Functionality1
-│   │       └──algo-visualize
-│   |            ├──Searching-Visualizer
-│   |            └──Sorting-Visualizer
+│   │       └── algo-visualize
+│   |            ├── Searching-Visualizer
+│   |            └── Sorting-Visualizer
 │   ├── Functionality2
-│   |       └──algo-catalog
+│   |       └── algo-catalog
 │   ├── Functionality3
 │   |       └── discussionpart
 |   └── Functionality4
-|           └──feedback
+|           └── feedback
 |
-└──algo-visualize-loginsignup
+└── algo-visualize-loginsignup
 ```
 ## Making :point_down:
 It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Vercel, Firebase, Chat Engine XDK, nodejs and Formik. It is fully responsive.<br>
