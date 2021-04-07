@@ -29,6 +29,22 @@ Then you have entered in the main page or home page. Here you can see your email
 4.Click on feedback. Here you can write in the comment section. You can write about how much this website is useful or any idea for improvement in this website. Go back to main page.<br>
 ## Importance :point_down:
 Using this web application user can stusy interesting things about algorithms and learn how they actually work.
+## Folder Structure :point_down:
+```bash
+├── PROJECT-2-UEMK
+│   ├── functionality1
+│   │       └──AlgoVisualizer
+│   |            ├──sorting
+│   |            └──searching
+│   ├── functionality2
+│   |       └──algo-catalog
+│   ├── functionality3
+│   |       └── discussion
+|   └── functionality4
+|           └──feedback
+|
+└──Algovisualizeloginsignup
+```
 ## Making :point_down:
 It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Vercel, Firebase, Chat Engine XDK, nodejs and Formik. It is fully responsive.<br>
 I have used @mediascreens for making it responsive. I have used [nodejs](https://nodejs.org) and [vercel](https://vercel.com).<br>
@@ -39,21 +55,21 @@ For backend I have used [firebase](https://firebase.google.com/) which provides 
 In discussion part for chatting I have used [chat engine](https://chatengine.io/) and I have made a project in api which provides our project secret key.<br>
 ## Screenshots :point_down: 
 <div align="center">
-<img src="s1.PNG" width="450" height= "250"> <img src="s2.PNG" width="450" height= "250">
+<img src="s1.PNG" width="400" height= "250"> <img src="s2.PNG" width="400" height= "250">
 
-<img src="s3.PNG" width="450" height= "250"> <img src="s4.PNG" width="450" height= "250">
+<img src="s3.PNG" width="400" height= "250"> <img src="s4.PNG" width="400" height= "250">
 
-<img src="s5.PNG" width="450" height= "250"> <img src="s6.PNG" width="450" height= "250">
+<img src="s5.PNG" width="400" height= "250"> <img src="s6.PNG" width="400" height= "250">
 
-<img src="s7.PNG" width="450" height= "250"> <img src="s8.PNG" width="450" height= "250">
+<img src="s7.PNG" width="400" height= "250"> <img src="s8.PNG" width="400" height= "250">
 
-<img src="s9.PNG" width="450" height= "250"> <img src="s10.PNG" width="450" height= "250">
+<img src="s9.PNG" width="400" height= "250"> <img src="s10.PNG" width="400" height= "250">
 
-<img src="s11.PNG" width="450" height= "250"> <img src="s12.PNG" width="450" height= "250">
+<img src="s11.PNG" width="400" height= "250"> <img src="s12.PNG" width="400" height= "250">
 
-<img src="s13.PNG" width="450" height= "250"> <img src="s14.PNG" width="450" height= "250">
+<img src="s13.PNG" width="400" height= "250"> <img src="s14.PNG" width="400" height= "250">
 
-<img src="s15.PNG" width="450" height= "250"> <img src="s16.PNG" width="450" height= "250">
+<img src="s15.PNG" width="400" height= "250"> <img src="s16.PNG" width="400" height= "250">
 </div>
 
 ## Available Scripts
