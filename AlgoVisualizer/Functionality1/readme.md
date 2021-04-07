@@ -19,6 +19,47 @@ I have made this to make learning algorithms an interesting, facsinating and eas
 Clicking on Visualize Algorithms user can see searching visualizer and there in the drop down menu user has to choose sorting algorithms to watch and understand working of some specific algorithms. User can read the tutorial which describes how to use that web application. User can change the values to see different working way.
 ## Importance :point_down:
  Learning an algorithm gets much easier with visualizing it. So it is a great way to study and understand algotihms.
+## Folder Structure :point_down:
+```bash
+Functionality1
+   |
+   └── algo-visualize
+            ├── Searching-Visualizer
+            |          ├── public
+            |          |      ├── browser
+            |          |      |      ├── animations
+            |          |      |      ├── mazeAlgorithms
+            |          |      |      ├── pathfindingAlgorithms
+            |          |      |      ├── board.js
+            |          |      |      ├── bundle.js
+            |          |      |      ├── getDistance.js
+            |          |      |      └── node.js
+            |          |      └── styling
+            |          |             ├── fonts
+            |          |             ├── cssBasic.css
+            |          |             ├── cssPokemon.css
+            |          |             └── svgs and imgs
+            |          ├── server.js
+            |          └── index.html
+            └── Sorting-Visualizer
+                       ├── css 
+                       |    ├── fonts
+                       |    ├── style.css
+                       |    └── style.css.map
+                       ├── scripts
+                       |    ├── bubble_sort.js
+                       |    ├── heap_sort.js
+                       |    ├── insertion_sort.js
+                       |    ├── main.js
+                       |    ├── merge_sort.js
+                       |    ├── quick_sort.js
+                       |    ├── selection_sort.js
+                       |    └── visualizations.js
+                       ├── VS_Sorting_Visualizer.code_Workspace
+                       ├── index.html
+                       └── favicon.png
+```                       
+
 ## Making :point_down:
 It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, nodejs. It is fully responsive.<br>
 For references for algorithms I have used [geeksforgeeks](https://www.geeksforgeeks.org/) and [wikipedia](https://www.wikipedia.org/). 
