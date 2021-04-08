@@ -19,6 +19,24 @@ The purpose of the discussion is to interpret and describe the significance of y
 Click on discussions. Here user has to enter his username and password (firebase-provided password in home page). Then he will be added in a discussion group for doubt clearing where the developers will answer his questions regarding this website. 
 ## Importance :point_down:
 Discussion is important for any queries of user. When developers guide the user properly it will very helpful for the user to explore the web site and study algorithms.
+## Folder Structure :point_down:
+```bash
+Functionality3
+    └── discussionpart
+            ├── public
+            |     ├── index.html
+```         |     └── loader.css
+            └── src
+                 ├── componenents
+                 |       ├── ChatFeed.jsx
+                 |       ├── LoginForm.jsx
+                 |       ├── MessageForm.jsx
+                 |       ├── MyMessage.jsx
+                 |       └── TheirMessage.jsx
+                 ├── App.css
+                 ├── App.css
+                 └── index.js
+```                 
 ## Making :point_down:
 It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Firebase, Chat Engine XDK, nodejs and Formik. It is fully responsive. For chatting I have used [chat engine](https://chatengine.io/). For password I have used [firebase](https://firebase.google.com/).
 ## Screenshots :point_down: 
