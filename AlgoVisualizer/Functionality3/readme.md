@@ -42,9 +42,9 @@ It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advan
 ## Screenshots :point_down: 
 <div align="center">
  
-<a href="s1.PNG"><img src="s1.PNG" width="400" height= "250"></a> <a href="s2.PNG"><img src="s2.PNG" width="400" height= "250"></a>
+<a href="login.PNG"><img src="login.PNG" width="400" height= "250"></a> <a href="main.PNG"><img src="main.PNG" width="400" height= "250"></a>
 
-<a href="s11.PNG"><img src="s11.PNG" width="400" height= "250"></a> <a href="s16.PNG"><img src="s16.PNG" width="400" height= "250"></a>
+<a href="s11.PNG"><img src="s11.PNG" width="400" height= "250"></a> <a href="load.PNG"><img src="load.PNG" width="400" height= "250"></a>
 
 </div>
 
