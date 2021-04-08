@@ -46,7 +46,6 @@ It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advan
 For references for algorithms I have used [geeksforgeeks](https://www.geeksforgeeks.org/sorting-algorithms/) and [wikipedia](https://en.wikipedia.org/wiki/Sorting_algorithm). 
 ## Screenshots :point_down: 
 <div align="center">
-<a href="s1.PNG"><img src="s1.PNG" width="400" height= "250"></a> <a href="s2.PNG"><img src="s2.PNG" width="400" height= "250"></a>
 
 <a href="s3.PNG"><img src="s3.PNG" width="400" height= "250"></a> <a href="s4.PNG"><img src="s4.PNG" width="400" height= "250"></a>
 
