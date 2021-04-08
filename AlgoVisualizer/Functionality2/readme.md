@@ -19,6 +19,7 @@ I have made this to make learning algorithms an interesting, facsinating and eas
 Clicking on Algorithms user can see 72 cards of different algorithms. When user clicks on "learn more" in card a page opens showing time complexity, space complexity, definitions etc details.
 ## Importance :point_down:
  Learning an algorithm gets much easier with getting compact details without searching in goolge or in any book. So it is a great way to study and understand algotihms.
+ ```bash
  Functionality2
    |
    └── algo-catalog
@@ -40,7 +41,7 @@ Clicking on Algorithms user can see 72 cards of different algorithms. When user 
                  ├── index.js
                  ├── searching.js
                  └── sorting.js
-
+```
 ## Making :point_down:
 It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Vercel, Firebase, Chat Engine XDK, nodejs and Formik. It is fully responsive. For references for algorithms I have used [geeksforgeeks](https://www.geeksforgeeks.org/) and [wikipedia](https://www.wikipedia.org/). For all custom images in algorithms part I have used [photoshop](www.adobe.com/Adobe/Photoshop). 
 ## Screenshots :point_down: 
