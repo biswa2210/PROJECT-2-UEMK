@@ -69,7 +69,9 @@ In discussion part for chatting I have used [chat engine](https://chatengine.io/
 
 <a href="s13.PNG"><img src="s13.PNG" width="400" height= "250"></a> <a href="s14.PNG"><img src="s14.PNG" width="400" height= "250"></a>
 
-<a href="s15.PNG"><img src="s15.PNG" width="400" height= "250"></a> <a href="s16.PNG"><img src="s16.PNG" width="400" height= "250"></a>
+<a href="s15.PNG"><img src="s15.PNG" width="400" height= "250"></a> <a href="feed.PNG"><img src="feed.PNG" width="400" height= "250"></a> 
+
+<a href="back.PNG"><img src="back.PNG" width="400" height= "250"></a> <a href="s16.PNG"><img src="s16.PNG" width="400" height= "250"></a>
 </div>
 
 ## Available Scripts
