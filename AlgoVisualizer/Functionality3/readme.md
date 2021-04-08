@@ -11,10 +11,10 @@
 [![Generic badge](https://img.shields.io/badge/contact%20me-facebook-blue)](https://www.facebook.com/biswarup.bhattacharjee.5811) [![Generic badge](https://img.shields.io/badge/visit%20my%20projects%20-github-brightgreen)](https://github.com/biswa2210)
 
 ## About :point_down: 
-*It is the 3rd functionality of my project.* The DISCUSSION part will take the user to a login page where he has to give username and password (firebase-provided password in home page). Then he will be added in a discussion group for doubt clearing where I will answer his questions regarding this website. Here user can send messages and images in chat.
+*It is the 3rd functionality of my project.* Messaging apps (a.k.a. social messaging or chat applications) are apps and platforms that enable instant messaging. Many such apps have developed into broad platforms enabling status updates, chatbots, payments and conversational commerce (e-commerce via chat). They are normally centralised networks run by the servers of the platform's operators, unlike peer-to-peer protocols like XMPP. The DISCUSSION part will take the user to a login page where he has to give username and password (firebase-provided password in home page). Then he will be added in a discussion group for doubt clearing where I will answer his questions regarding this website. Here user can send messages and images in chat.
 ## LINK : :point_right: https://algo-visualize-disscussion.netlify.app/
 ## Purpose :point_down:
-The purpose of the discussion is to interpret and describe the significance of your findings in light of what was already known about the research problem being investigated and to explain any new understanding or insights that emerged as a result of your study of the problem. I have made this to make study easier.
+The purpose of the discussion is to interpret and describe the significance of your findings in light of what was already known about the research problem being investigated and to explain any new understanding or insights that emerged as a result of your study of the problem. Group discussion on study topics plays vital role in understanding the topic. Discussing a topic with friends or classmates helps in learning the topic with perfection. Group discussion on a topic involves sharing of learning by the participants which equally benefits all the participants. I have made this to make study easier.
 ## Use :point_down:
 Click on discussions. Here user has to enter his username and password (firebase-provided password in home page). Then he will be added in a discussion group for doubt clearing where the developers will answer his questions regarding this website. 
 ## Importance :point_down:
@@ -42,9 +42,9 @@ It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advan
 ## Screenshots :point_down: 
 <div align="center">
  
-<img src="s1.PNG" width="400" height= "250"> <img src="s2.PNG" width="400" height= "250">
+<a href="s1.PNG"><img src="s1.PNG" width="400" height= "250"></a> <a href="s2.PNG"><img src="s2.PNG" width="400" height= "250"></a>
 
-<img src="s11.PNG" width="400" height= "250"> <img src="s16.PNG" width="400" height= "250">
+<a href="s11.PNG"><img src="s11.PNG" width="400" height= "250"></a> <a href="s16.PNG"><img src="s16.PNG" width="400" height= "250"></a>
 
 </div>
 
