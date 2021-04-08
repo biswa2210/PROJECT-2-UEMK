@@ -54,6 +54,8 @@ It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advan
 
 <img src="s14.PNG" width="400" height= "250"> <img src="s15.PNG" width="400" height= "250">
 
+<img src="feed.PNG" width="400" height= "250"> <img src="back.PNG" width="400" height= "250">
+
 <img src="s16.PNG" width="400" height= "250">
 </div>
 
