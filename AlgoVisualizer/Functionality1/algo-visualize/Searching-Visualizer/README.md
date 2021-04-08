@@ -45,7 +45,7 @@ Searching-Visualizer
 
 ## Making :point_down:
 It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, nodejs. It is fully responsive.<br>
-For references for algorithms I have used [geeksforgeeks](https://www.geeksforgeeks.org/sorting-algorithms/) and [wikipedia](https://en.wikipedia.org/wiki/Search_algorithm). 
+For references for algorithms I have used [geeksforgeeks](https://www.geeksforgeeks.org/searching-algorithms/) and [wikipedia](https://en.wikipedia.org/wiki/Search_algorithm). 
 ## Screenshots :point_down: 
 <div align="center">
 <a href="login.PNG"><img src="login.PNG" width="400" height= "250"></a> <a href="main.PNG"><img src="main.PNG" width="400" height= "250"></a>
