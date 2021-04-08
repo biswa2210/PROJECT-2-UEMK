@@ -55,21 +55,21 @@ For backend I have used [firebase](https://firebase.google.com/) which provides 
 In discussion part for chatting I have used [chat engine](https://chatengine.io/) and I have made a project in api which provides our project secret key.<br>
 ## Screenshots :point_down: 
 <div align="center">
- <a href="s1.PNG"><img src="s1.PNG" width="400" height= "250"></a> <img src="s2.PNG" width="400" height= "250">
+<a href="s1.PNG"><img src="s1.PNG" width="400" height= "250"></a> <a href="s1.PNG"><img src="s2.PNG" width="400" height= "250"></a>
 
-<img src="s3.PNG" width="400" height= "250"> <img src="s4.PNG" width="400" height= "250">
+<a href="s1.PNG"><img src="s3.PNG" width="400" height= "250"></a> <a href="s1.PNG"><img src="s4.PNG" width="400" height= "250"></a>
 
-<img src="s5.PNG" width="400" height= "250"> <img src="s6.PNG" width="400" height= "250">
+<a href="s1.PNG"><img src="s5.PNG" width="400" height= "250"></a> <a href="s1.PNG"><img src="s6.PNG" width="400" height= "250"></a>
 
-<img src="s7.PNG" width="400" height= "250"> <img src="s8.PNG" width="400" height= "250">
+<a href="s1.PNG"><img src="s7.PNG" width="400" height= "250"></a> <a href="s1.PNG"><img src="s8.PNG" width="400" height= "250"></a>
 
-<img src="s9.PNG" width="400" height= "250"> <img src="s10.PNG" width="400" height= "250">
+<a href="s1.PNG"><img src="s9.PNG" width="400" height= "250"></a> <a href="s1.PNG"><img src="s10.PNG" width="400" height= "250"></a>
 
-<img src="s11.PNG" width="400" height= "250"> <img src="s12.PNG" width="400" height= "250">
+<a href="s1.PNG"><img src="s11.PNG" width="400" height= "250"></a> <a href="s1.PNG"><img src="s12.PNG" width="400" height= "250"></a>
 
-<img src="s13.PNG" width="400" height= "250"> <img src="s14.PNG" width="400" height= "250">
+<a href="s1.PNG"><img src="s13.PNG" width="400" height= "250"></a> <a href="s1.PNG"><img src="s14.PNG" width="400" height= "250"></a>
 
-<img src="s15.PNG" width="400" height= "250"> <img src="s16.PNG" width="400" height= "250">
+<a href="s1.PNG"><img src="s15.PNG" width="400" height= "250"></a> <a href="s1.PNG"><img src="s16.PNG" width="400" height= "250"></a>
 </div>
 
 ## Available Scripts
