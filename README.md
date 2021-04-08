@@ -55,7 +55,7 @@ For backend I have used [firebase](https://firebase.google.com/) which provides 
 In discussion part for chatting I have used [chat engine](https://chatengine.io/) and I have made a project in api which provides our project secret key.<br>
 ## Screenshots :point_down: 
 <div align="center">
-<img src="s1.PNG" width="400" height= "250"> <img src="s2.PNG" width="400" height= "250">
+ <a href="s1.PNG"><img src="s1.PNG" width="400" height= "250"></a> <img src="s2.PNG" width="400" height= "250">
 
 <img src="s3.PNG" width="400" height= "250"> <img src="s4.PNG" width="400" height= "250">
 
