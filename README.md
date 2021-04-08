@@ -18,7 +18,7 @@ ALGORITHMS PART--\>https://algo-visualize-algorithms.netlify.app/<br>
 DISCUSSION PART--\>https://algo-visualize-disscussion.netlify.app/<br>
 FEEDBACK PART--\>https://algo-visualize-feedback.netlify.app<br>***
 ## Purpose :point_down:
-I have made this website to easily study algorithms.
+Algorithms are used in every part of computer science. They form the field's backbone. In computer science, an algorithm gives the computer a specific set of instructions, which allows the computer to do everything, be it running a calculator or running a rocket. Algorithmic thinking, or the ability to define clear steps to solve a problem, is crucial in many different fields. Even if we’re not conscious of it, we use algorithms and algorithmic thinking all the time. Algorithmic thinking allows students to break down problems and conceptualize solutions in terms of discrete steps. Being able to understand and implement an algorithm requires students to practice structured thinking and reasoning abilities. I have made this website to easily study algorithms.
 ## User Guide :point_down:
 To use this Algorithm Visualizer, user have to follow these steps given below:
 First you have to open the provided link. Then a sign up or login page will open. If you are opening it for first time select sign up option. Give your username, email id, password, verify password. If you have already signed up, then go to login option. Give your email, password, confirm password. 
@@ -28,7 +28,7 @@ Then you have entered in the main page or home page. Here you can see your email
 3.Click on discussions. Here you have to enter your username and password (firebase-provided password in home page). Then you will be added in a discussion group for doubt clearing where the developers will answer your questions regarding this website. Go back to main page.<br>
 4.Click on feedback. Here you can write in the comment section. You can write about how much this website is useful or any idea for improvement in this website. Go back to main page.<br>
 ## Importance :point_down:
-Using this web application user can stusy interesting things about algorithms and learn how they actually work.
+There are two principal applications of algorithm visualization: research and education. Potential benefits for researchers are based on expectations that algo-rithm visualization may help uncover some unknown features of algorithms. For example, one researcher used a visualization of the recursive Tower of Hanoi algo-rithm in which odd- and even-numbered disks were colored in two different colors. He noticed that two disks of the same color never came in direct contact during the algorithm’s execution. This observation helped him in developing a better non-recursive version of the classic algorithm. The application of algorithm visualization to education seeks to help students learning algorithms. The available evidence of its effectiveness is decisively mixed. Although some experiments did register positive learning outcomes, others failed to do so. The increasing body of evidence indicates that creating sophisticated software systems is not going to be enough. In fact, it appears that the level of student involvement with visualization might be more important than specific features of visualization software. In some experiments, low-tech visualizations prepared by students were more effective than passive exposure to sophisticated software systems. Using this web application user can stusy interesting things about algorithms and learn how they actually work.
 ## Folder Structure :point_down:
 ```bash
 ├── PROJECT-2-UEMK
@@ -46,7 +46,7 @@ Using this web application user can stusy interesting things about algorithms an
 └── algo-visualize-loginsignup
 ```
 ## Making :point_down:
-It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Vercel, Firebase, Chat Engine XDK, nodejs and Formik. It is fully responsive.<br>
+I have created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Vercel, Firebase, Chat Engine XDK, nodejs and Formik. It is fully responsive.<br>
 I have used @mediascreens for making it responsive. I have used [nodejs](https://nodejs.org) and [vercel](https://vercel.com).<br>
 I have used blob effect in css and [svg](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics) in the main page.<br>
 For references for algorithms I have used [geeksforgeeks](https://www.geeksforgeeks.org/) and [wikipedia](https://www.wikipedia.org/).<br>
