@@ -47,13 +47,13 @@ It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advan
 ## Screenshots :point_down: 
 <div align="center">
  
-<img src="s1.PNG" width="450" height= "250"> <img src="s2.PNG" width="450" height= "250">
+<img src="s1.PNG" width="400" height= "250"> <img src="s2.PNG" width="400" height= "250">
 
-<img src="s7.PNG" width="450" height= "250"> <img src="s8.PNG" width="450" height= "250">
+<img src="s7.PNG" width="400" height= "250"> <img src="s8.PNG" width="400" height= "250">
 
-<img src="s9.PNG" width="450" height= "250"> <img src="s10.PNG" width="450" height= "250">
+<img src="s9.PNG" width="400" height= "250"> <img src="s10.PNG" width="400" height= "250">
 
-<img src="s16.PNG" width="450" height= "250">
+<img src="s16.PNG" width="400" height= "250">
 
 </div>
 
