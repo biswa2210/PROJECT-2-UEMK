@@ -44,7 +44,9 @@ It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advan
  
 <a href="login.PNG"><img src="login.PNG" width="400" height= "250"></a> <a href="main.PNG"><img src="main.PNG" width="400" height= "250"></a>
 
-<a href="s11.PNG"><img src="s11.PNG" width="400" height= "250"></a> <a href="load.PNG"><img src="load.PNG" width="400" height= "250"></a>
+<a href="s11.PNG"><img src="s11.PNG" width="400" height= "250"></a> <a href="s12.PNG"><img src="s12.PNG" width="400" height= "250"></a>
+
+<a href="load.PNG"><img src="load.PNG" width="400" height= "250"></a>
 
 </div>
 
