@@ -19,6 +19,29 @@ I have added this section because here user can read about this web application,
 Clicking on feedback user can read about my web app. User can write about how much this website is useful or any idea for improvement in this website in contact us section. In send feedback portion user can give feedback.
 ## Importance :point_down:
 User's feedback is important to me because only in this way I can know how I should make my work more advance. I can understand if my web app is helpful to users or not.
+## Folder Structure :point_down:
+```bash
+Functionality4
+     └── feedback
+            ├── public
+            |     ├── index.html
+            ├── src
+            |     ├── components
+            |     |     └── Navbar.js
+            |     ├── fonts
+            |     └── pages
+            |           ├── About.js
+            |           ├── Contact.js
+            |           ├── home.js
+            |           ├── Userguide.js
+            |           └── err404.js
+            ├── service
+            |     └── firebase.js
+            ├── App.js
+            ├── App.css
+            ├── index.js
+            └── index.css
+```
 ## Making :point_down:
 It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Firebase, Chat Engine XDK, nodejs and Formik. It is fully responsive. 
 ## Screenshots :point_down: 
