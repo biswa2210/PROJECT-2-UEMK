@@ -1,4 +1,4 @@
-# ALGORIHMS-VIUALIZER-WEB-APPLICATION :star_struck:
+# ALGORITHMS-VIUALIZER-WEB-APPLICATION :star_struck:
 [![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-css3-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-javascript-yellow)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-bootstrap4-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-scss-brightgreen)](https://shields.io/) 
  
 
