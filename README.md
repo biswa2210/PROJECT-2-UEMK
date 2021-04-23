@@ -76,6 +76,11 @@ In discussion part for chatting I have used [chat engine](https://chatengine.io/
 <a href="back.PNG"><img src="back.PNG" width="400" height= "250"></a> <a href="s16.PNG"><img src="s16.PNG" width="400" height= "250"></a>
 </div>
 
+## Block Diagram of Project :point_down:
+<div align="center">
+<a href="bl2.PNG"><img src="bl2.PNG" width="700" height= "350"></a>
+</div>
+
 ## Available Scripts
 
 In the project directory, you can run:
