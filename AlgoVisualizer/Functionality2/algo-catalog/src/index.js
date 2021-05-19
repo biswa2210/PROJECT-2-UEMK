@@ -2,6 +2,11 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import "./index.css";
 import { Algolist } from './Algorithms';
+        /*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 /*<----------------------------------------------------------------------------> */
 /* Other Algos Import */
