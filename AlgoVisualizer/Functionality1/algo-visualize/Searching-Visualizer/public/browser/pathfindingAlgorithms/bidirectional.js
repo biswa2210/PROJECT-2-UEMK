@@ -5,6 +5,12 @@ function bidirectional(nodes, start, target, nodesToAnimate, boardArray, name, h
   if (!start || !target || start === target) {
     return false;
   }
+  /*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
+
   nodes[start].distance = 0;
   nodes[start].direction = "right";
   nodes[target].otherdistance = 0;
