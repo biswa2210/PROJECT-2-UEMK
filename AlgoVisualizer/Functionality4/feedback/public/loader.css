@@ -3,6 +3,13 @@
 .coder-logo-animation {
   position: relative;
   height: 190px;
+  
+  
+  /*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
   width: 250px;
   -webkit-animation: coder-logo 1.7s infinite cubic-bezier(0.8, 0, 0.2, 0.8);
   -moz-animation: coder-logo 1.7s infinite cubic-bezier(0.8, 0, 0.2, 0.8);
