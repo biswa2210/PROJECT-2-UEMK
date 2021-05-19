@@ -1,5 +1,10 @@
 export const Home = () => {
     return (<>
+            /*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
         <center><h1 className="jumbotron homeheading">Algorithm Visualizer</h1>
           <div class="col-sm-8 text-left"> <hr></hr>
                 <center><h1 className="homeheading3"><u>OVERVIEW</u></h1></center>
