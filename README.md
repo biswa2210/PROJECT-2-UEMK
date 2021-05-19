@@ -114,7 +114,7 @@ In discussion part for chatting I have used [chat engine](https://chatengine.io/
 ## Block Diagram of Project :point_down:
 
 <div align="center">
-<a href="bl2.PNG"><img src="bl2.PNG" width="800" height= "350"></a>
+<a href="pics/bl2.PNG"><img src="pics/bl2.PNG" width="800" height= "350"></a>
 </div>
 
 ## Available Scripts
