@@ -1,7 +1,11 @@
 import React, { useState, useEffect } from "react";
 import "../app.css";
 import { db } from "../service/firebase";
-
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 const Contact = () => {
   const [name, setName] = useState("");
     const [email, setEmail] = useState("");
