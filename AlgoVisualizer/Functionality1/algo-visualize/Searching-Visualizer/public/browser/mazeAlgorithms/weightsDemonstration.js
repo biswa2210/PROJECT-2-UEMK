@@ -1,6 +1,12 @@
 function weightsDemonstration(board) {
   let currentIdX = board.height - 1;
   let currentIdY = 35;
+  /*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
+
   while (currentIdX > 5) {
     let currentId = `${currentIdX}-${currentIdY}`;
     let currentElement = document.getElementById(currentId);
