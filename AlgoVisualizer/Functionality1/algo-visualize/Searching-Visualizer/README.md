@@ -17,7 +17,32 @@
 *It is a part of functionality 1 of my project.* Algorithm Visualizer is an online platform that visualizes algorithms from as per user choice. Algorithm-visualizer is a web app written in React. It contains UI components and interprets commands into visualizations. Here are two types of algorithms, searching and sorting. Here user will get a tutorial for using this web application. Here we can set the size, speed, name of algorithm them it will show how the algorithm actually works. 
 </div>
 
-## LINK of full project: :point_right:https://algo-visualize-login-signup.vercel.app/login
+## FEATURES IN SEARCHING VIUSALIZER :point_down:
+
+1. Algorithms<br>
+ - Breadth-First Search<br>
+ - Dijkstra's Algorithm<br>
+ - Bidirectional Swam Algorithm<br>
+ - Convergent Swam Algorithm<br>
+ - Swam Algorithm<br>
+ - Depth-First Search<br>
+2. Patterns<br>
+ - Simple Stair Pattern<br>
+ - Basic Weight Maze<br>
+ - Recursive Division<br>
+ - Recursive Division(Vertical Skew)<br>
+ - Recursive Division(Horizental Skew)<br>
+3. Adding Bomb<br>
+4. Visualize<br>
+5. Clear Board<br>
+6. Clear Walls & Weights<br>
+7. Clear Path
+8. Speed
+ - Fast
+ - Average
+ - Slow
+
+## LINK of full project: :point_right: https://algo-visualize-login-signup.vercel.app/login
 
 ## Purpose :point_down:
 
