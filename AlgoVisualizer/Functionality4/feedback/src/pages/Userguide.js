@@ -1,3 +1,8 @@
+            /*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 export const Userguide = () => {
     return (
         <div>
@@ -7,11 +12,7 @@ export const Userguide = () => {
     <p> <p className="bal">This is a web application which is used to visualise algorithms.<br></br>It has been created using JavaScript, CSS, SCSS, ReactJS, bootstrap, HTML5, Vercel, Firebase, Chat Engine SDK, nodejs and Formik. </p></p>
   </div>
 </div>
-            /*
-CREATED BY BISWARUP BHATTACHARJEE
-EMAIL    : bbiswa471@gmail.com
-PHONE NO : 6290272740
-*/
+
             <div class="container pok">
                 <h3 className="homeheading2"><u>GUIDANCE</u></h3>
   <p>To use this Algorithm Visualizer, user have to follow these steps given below:     
