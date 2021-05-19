@@ -2,6 +2,12 @@ function recursiveDivisionMaze(board, rowStart, rowEnd, colStart, colEnd, orient
   if (rowEnd < rowStart || colEnd < colStart) {
     return;
   }
+  /*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
+
   if (!surroundingWalls) {
     let relevantIds = [board.start, board.target];
     if (board.object) relevantIds.push(board.object);
