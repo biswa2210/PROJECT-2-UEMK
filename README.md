@@ -1,8 +1,9 @@
-# ALGORITHMS-VIUALIZER-WEB-APPLICATION :star_struck:
+# ALGORITHMS-VIUALIZER-WEB-APPLICATION :star_struck: :e-mail: :bookmark_tabs: :open_file_folder: :computer: :iphone:
+
 [![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-css3-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-javascript-yellow)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-bootstrap4-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-scss-brightgreen)](https://shields.io/) 
  
 
-***This new Web application is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
+***This new Web application names'Alogorithm Visualizer' is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
 **Email Id: bbiswa471@gmail.com.** 
 
@@ -11,20 +12,39 @@
 [![Generic badge](https://img.shields.io/badge/contact%20me-facebook-blue)](https://www.facebook.com/biswarup.bhattacharjee.5811) [![Generic badge](https://img.shields.io/badge/visit%20my%20projects%20-github-brightgreen)](https://github.com/biswa2210)
 
 ## About :point_down: 
-**I have made this project but just for group project purpose my class mates' as well as group members' names are written in developers area in research paper.** *This is the project of second year fourth semester*. This is a web application which is used to visualise algorithms. User can approach this website through a provided link. First of all it has a sign up or login page. If user is opening it for first time he has to select sign up option. Here he has to give username, email id, password, verify password. If he has already signed up, then he has to go to login option and then he has to give email, password, confirm password. Then you have entered in the main page or home page. Here user can see your email id and a firebase-provided password. Here four buttons are given. VISUALIZE ALGORITHMS, ALGORITHMS, DISCUSSION, FEEDBACK. By clicking on VISUALIZE ALGORITHMS user can watch and understand working of some specific algorithms. If user goes to ALGORITHMS he can see total _72_ algorithms. Sorting, Searching and Others algorithms. If he clicks any of them in learn more button then their details will be shown in a page. The DISCUSSION part will take the user to a login page where he has to give username and password (firebase-provided password in home page). Then he will be added in a discussion group for doubt clearing where the developers will answer his questions regarding this website. In the feedback portion user can write about how much this website is useful or any idea for improvement in this website in the comment section.<br>
-:point_right: [click here to read Project2 Research Paper](https://github.com/biswa2210/PROJECT-2-UEMK/blob/master/4thSemProject2ResearchPaper.pdf)<br>
-:point_right: [click here to see Project2 PowerPoint Presentation](https://docs.google.com/presentation/d/1StIwLrpYgdswHR1W40IjPABYh3_WWq_V/edit#slide=id.p1)<br>
 
-## LINKS : :point_down:
+<div align="justified">
+ 
+**I have made this project but just for group project purpose my class mates' as well as group members' names are written in developers area in research paper.** *This is the project of second year fourth semester*. This is a web application which is used to visualise algorithms. User can approach this website through a provided link. First of all it has a sign up or login page. If user is opening it for first time he has to select sign up option. Here he has to give username, email id, password, verify password. If he has already signed up, then he has to go to login option and then he has to give email, password, confirm password. Then you have entered in the main page or home page. Here user can see your email id and a firebase-provided password. Here four buttons are given. VISUALIZE ALGORITHMS, ALGORITHMS, DISCUSSION, FEEDBACK. By clicking on VISUALIZE ALGORITHMS user can watch and understand working of some specific algorithms. If user goes to ALGORITHMS he can see total _72_ algorithms. Sorting, Searching and Others algorithms. If he clicks any of them in learn more button then their details will be shown in a page. The DISCUSSION part will take the user to a login page where he has to give username and password (firebase-provided password in home page). Then he will be added in a discussion group for doubt clearing where the developers will answer his questions regarding this website. In the feedback portion user can write about how much this website is useful or any idea for improvement in this website in the comment section.<br>
+</div>
+
+## Things needed to get started eith this web app :point_down:
+
+ - [x] valid email id
+ - [x] username
+ - [x] password
+
+**:point_right: [click here to read Project2 Research Paper](https://github.com/biswa2210/PROJECT-2-UEMK/blob/master/4thSemProject2ResearchPaper.pdf)<br>
+:point_right: [click here to see Project2 PowerPoint Presentation](https://docs.google.com/presentation/d/1StIwLrpYgdswHR1W40IjPABYh3_WWq_V/edit#slide=id.p1)<br>**
+
+## LINKS :point_down:
+
 ***PROJECT--\>https://algo-visualize-login-signup.vercel.app/login<br>
 ALGORITHMS PART--\>https://algo-visualize-algorithms.netlify.app/<br>
 DISCUSSION PART--\>https://algo-visualize-disscussion.netlify.app/<br>
 FEEDBACK PART--\>https://algo-visualize-feedback.netlify.app<br>***
 
 ## Purpose :point_down:
+
+<div align="justified">
+ 
 Algorithms are used in every part of computer science. They form the field's backbone. In computer science, an algorithm gives the computer a specific set of instructions, which allows the computer to do everything, be it running a calculator or running a rocket. Algorithmic thinking, or the ability to define clear steps to solve a problem, is crucial in many different fields. Even if we’re not conscious of it, we use algorithms and algorithmic thinking all the time. Algorithmic thinking allows students to break down problems and conceptualize solutions in terms of discrete steps. Being able to understand and implement an algorithm requires students to practice structured thinking and reasoning abilities. I have made this website to easily study algorithms.
+</div>
 
 ## User Guide :point_down:
+
+<div align="justified">
+ 
 To use this Algorithm Visualizer, user have to follow these steps given below:
 First you have to open the provided link. Then a sign up or login page will open. If you are opening it for first time select sign up option. Give your username, email id, password, verify password. If you have already signed up, then go to login option. Give your email, password, confirm password. 
 Then you have entered in the main page or home page. Here you can see your email id and a firebase-provided password.<br>
@@ -32,9 +52,14 @@ Then you have entered in the main page or home page. Here you can see your email
 2.Click on Algorithms. Here you can see total 72 algorithms. Sorting, Searching and Others algorithms. Click any of them in learn more button to read their details. Go back to main page.<br>
 3.Click on discussions. Here you have to enter your username and password (firebase-provided password in home page). Then you will be added in a discussion group for doubt clearing where the developers will answer your questions regarding this website. Go back to main page.<br>
 4.Click on feedback. Here you can write in the comment section. You can write about how much this website is useful or any idea for improvement in this website. Go back to main page.<br>
-5.
+</div>
+
 ## Importance :point_down:
+
+<div align="justified">
+ 
 There are two principal applications of algorithm visualization: research and education. Potential benefits for researchers are based on expectations that algo-rithm visualization may help uncover some unknown features of algorithms. For example, one researcher used a visualization of the recursive Tower of Hanoi algo-rithm in which odd- and even-numbered disks were colored in two different colors. He noticed that two disks of the same color never came in direct contact during the algorithm’s execution. This observation helped him in developing a better non-recursive version of the classic algorithm. The application of algorithm visualization to education seeks to help students learning algorithms. The available evidence of its effectiveness is decisively mixed. Although some experiments did register positive learning outcomes, others failed to do so. The increasing body of evidence indicates that creating sophisticated software systems is not going to be enough. In fact, it appears that the level of student involvement with visualization might be more important than specific features of visualization software. In some experiments, low-tech visualizations prepared by students were more effective than passive exposure to sophisticated software systems. Using this web application user can stusy interesting things about algorithms and learn how they actually work.
+</div>
 
 ## Folder Structure :point_down:
 ```bash
@@ -53,6 +78,7 @@ There are two principal applications of algorithm visualization: research and ed
 └── algo-visualize-loginsignup
 ```
 ## Making :point_down:
+
 I have created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Vercel, Firebase, Chat Engine XDK, nodejs and Formik. It is fully responsive.<br>
 I have used @mediascreens for making it responsive. I have used [nodejs](https://nodejs.org) and [vercel](https://vercel.com).<br>
 I have used blob effect in css and [svg](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics) in the main page.<br>
@@ -62,29 +88,31 @@ For backend I have used [firebase](https://firebase.google.com/) which provides 
 In discussion part for chatting I have used [chat engine](https://chatengine.io/) and I have made a project in api which provides our project secret key.<br>
 
 ## Screenshots :point_down: 
+
 <div align="center">
-<a href="s1.PNG"><img src="s1.PNG" width="400" height= "250"></a> <a href="s2.PNG"><img src="s2.PNG" width="400" height= "250"></a>
+<a href="pics/s1.PNG"><img src="pics/s1.PNG" width="400" height= "300"></a> <a href="pics/s2.PNG"><img src="pics/s2.PNG" width="400" height= "300"></a>
 
-<a href="s3.PNG"><img src="s3.PNG" width="400" height= "250"></a> <a href="s4.PNG"><img src="s4.PNG" width="400" height= "250"></a>
+<a href="pics/s3.PNG"><img src="pics/s3.PNG" width="400" height= "300"></a> <a href="pics/s4.PNG"><img src="pics/s4.PNG" width="400" height= "300"></a>
 
-<a href="s5.PNG"><img src="s5.PNG" width="400" height= "250"></a> <a href="s6.PNG"><img src="s6.PNG" width="400" height= "250"></a>
+<a href="pics/s5.PNG"><img src="pics/s5.PNG" width="400" height= "300"></a> <a href="pics/s6.PNG"><img src="pics/s6.PNG" width="400" height= "300"></a>
 
-<a href="s7.PNG"><img src="s7.PNG" width="400" height= "250"></a> <a href="s8.PNG"><img src="s8.PNG" width="400" height= "250"></a>
+<a href="pics/s7.PNG"><img src="pics/s7.PNG" width="400" height= "300"></a> <a href="pics/s8.PNG"><img src="pics/s8.PNG" width="400" height= "300"></a>
 
-<a href="s9.PNG"><img src="s9.PNG" width="400" height= "250"></a> <a href="s10.PNG"><img src="s10.PNG" width="400" height= "250"></a>
+<a href="pics/9.PNG"><img src="pics/s9.PNG" width="400" height= "300"></a> <a href="pics/s10.PNG"><img src="pics/s10.PNG" width="400" height= "300"></a>
 
-<a href="s11.PNG"><img src="s11.PNG" width="400" height= "250"></a> <a href="s12.PNG"><img src="s12.PNG" width="400" height= "250"></a>
+<a href="pics/11.PNG"><img src="pics/s11.PNG" width="400" height= "300"></a> <a href="pics/s12.PNG"><img src="pics/s12.PNG" width="400" height= "300"></a>
 
-<a href="s13.PNG"><img src="s13.PNG" width="400" height= "250"></a> <a href="s14.PNG"><img src="s14.PNG" width="400" height= "250"></a>
+<a href="pics/s13.PNG"><img src="pics/s13.PNG" width="400" height= "300"></a> <a href="pics/s14.PNG"><img src="pics/s14.PNG" width="400" height= "300"></a>
 
-<a href="s15.PNG"><img src="s15.PNG" width="400" height= "250"></a> <a href="feed.PNG"><img src="feed.PNG" width="400" height= "250"></a> 
+<a href="pics/s15.PNG"><img src="pics/s15.PNG" width="400" height= "300"></a> <a href="pics/feed.PNG"><img src="pics/feed.PNG" width="400" height= "300"></a> 
 
-<a href="back.PNG"><img src="back.PNG" width="400" height= "250"></a> <a href="s16.PNG"><img src="s16.PNG" width="400" height= "250"></a>
+<a href="pics/back.PNG"><img src="pics/back.PNG" width="400" height= "300"></a> <a href="pics/s16.PNG"><img src="pics/s16.PNG" width="400" height= "300"></a>
 </div>
 
 ## Block Diagram of Project :point_down:
+
 <div align="center">
-<a href="bl2.PNG"><img src="bl2.PNG" width="700" height= "350"></a>
+<a href="bl2.PNG"><img src="bl2.PNG" width="800" height= "350"></a>
 </div>
 
 ## Available Scripts
