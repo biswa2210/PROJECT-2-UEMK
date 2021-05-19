@@ -1,12 +1,13 @@
 import Delayed from '../delayed';
-export function eleventhOtherkargers() {
-    return (
-      <section>
         /*
 CREATED BY BISWARUP BHATTACHARJEE
 EMAIL    : bbiswa471@gmail.com
 PHONE NO : 6290272740
 */
+export function eleventhOtherkargers() {
+    return (
+      <section>
+
             <div class="routeloader">
             <div class="coder-logo-animation">
               <div class="left">
