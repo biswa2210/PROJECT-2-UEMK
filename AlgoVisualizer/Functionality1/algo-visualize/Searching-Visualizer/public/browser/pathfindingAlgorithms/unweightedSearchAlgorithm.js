@@ -2,6 +2,12 @@ function unweightedSearchAlgorithm(nodes, start, target, nodesToAnimate, boardAr
   if (!start || !target || start === target) {
     return false;
   }
+  /*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
+
   let structure = [nodes[start]];
   let exploredNodes = {start: true};
   while (structure.length) {
