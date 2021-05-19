@@ -5,6 +5,11 @@ export const About = () => {
   <h1 className="sak">Algorithm Visualizer About Page</h1>
   <p className="bal">This is a web application which is used to visualise algorithms.<br></br>It has been created using JavaScript, bootstrap4,CSS, SCSS, ReactJS, HTML5, Vercel, Firebase, Chat Engine SDK, nodejs and Formik. </p>
 </div>
+        /*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 
 <div class="container">
   <div class="row">
