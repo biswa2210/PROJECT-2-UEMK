@@ -3,6 +3,12 @@ function Node(id, status) {
   this.status = status;
   this.previousNode = null;
   this.path = null;
+  /*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
+
   this.direction = null;
   this.storedDirection = null;
   this.distance = Infinity;
