@@ -19,7 +19,15 @@
 
 ## LINK of full project: :point_right:https://algo-visualize-login-signup.vercel.app/login
 
-## SORTING ALGORITHMS WHICH 
+## SORTING ALGORITHMS WHICH ARE VISUALIZED :point_down:
+
+ - Bubble Sort<br>
+ - Insertion Sort<br>
+ - Selection Sort<br>
+ - Quick Sort<br>
+ - Merge Sort<br>
+ - Heap Sort<br>
+ 
 ## Purpose :point_down:
 
 <div align="justified">
