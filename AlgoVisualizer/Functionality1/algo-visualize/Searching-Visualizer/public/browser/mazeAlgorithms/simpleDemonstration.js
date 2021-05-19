@@ -1,5 +1,11 @@
 function simpleDemonstration(board) {
   let currentIdY = board.width - 10;
+  /*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
+
   for (let counter = 0; counter < 7; counter++) {
     let currentIdXOne = Math.floor(board.height / 2) - counter;
     let currentIdXTwo = Math.floor(board.height / 2) + counter;
