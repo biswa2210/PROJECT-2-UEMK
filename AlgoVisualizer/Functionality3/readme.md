@@ -1,4 +1,4 @@
-# DISCUSSION-PART :star_struck:
+# DISCUSSION-PART :star_struck: :computer: :speech_balloon: :bookmark:
 
 [![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-css3-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-javascript-yellow)](https://shields.io/)
 
@@ -11,15 +11,31 @@
 [![Generic badge](https://img.shields.io/badge/contact%20me-facebook-blue)](https://www.facebook.com/biswarup.bhattacharjee.5811) [![Generic badge](https://img.shields.io/badge/visit%20my%20projects%20-github-brightgreen)](https://github.com/biswa2210)
 
 ## About :point_down: 
+
+<div align="justified">
+            
 *It is the 3rd functionality of my project.* Messaging apps (a.k.a. social messaging or chat applications) are apps and platforms that enable instant messaging. Many such apps have developed into broad platforms enabling status updates, chatbots, payments and conversational commerce (e-commerce via chat). They are normally centralised networks run by the servers of the platform's operators, unlike peer-to-peer protocols like XMPP. The DISCUSSION part will take the user to a login page where he has to give username and password (firebase-provided password in home page). Then he will be added in a discussion group for doubt clearing where I will answer his questions regarding this website. Here user can send messages and images in chat.
+</div>
+
 ## LINK : :point_right: https://algo-visualize-disscussion.netlify.app/
+
 ## Purpose :point_down:
+
+<div align="justified">
+            
 The purpose of the discussion is to interpret and describe the significance of your findings in light of what was already known about the research problem being investigated and to explain any new understanding or insights that emerged as a result of your study of the problem. Group discussion on study topics plays vital role in understanding the topic. Discussing a topic with friends or classmates helps in learning the topic with perfection. Group discussion on a topic involves sharing of learning by the participants which equally benefits all the participants. I have made this to make study easier.
+</div>
+
 ## Use :point_down:
-Click on discussions. Here user has to enter his username and password (firebase-provided password in home page). Then he will be added in a discussion group for doubt clearing where the developers will answer his questions regarding this website. 
+
+Click on discussions. Here user has to enter his username and password (firebase-provided password in home page). Then he will be added in a discussion group for doubt clearing where the developers will answer his questions regarding this website.
+
 ## Importance :point_down:
+
 Discussion is important for any queries of user. When developers guide the user properly it will very helpful for the user to explore the web site and study algorithms.
+
 ## Folder Structure :point_down:
+
 ```bash
 Functionality3
     └── discussionpart
@@ -38,15 +54,18 @@ Functionality3
                  └── index.js
 ```                 
 ## Making :point_down:
+
 It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Firebase, Chat Engine XDK, nodejs and Formik. It is fully responsive. For chatting I have used [chat engine](https://chatengine.io/). For password I have used [firebase](https://firebase.google.com/).
+
 ## Screenshots :point_down: 
+
 <div align="center">
  
-<a href="login.PNG"><img src="login.PNG" width="400" height= "250"></a> <a href="main.PNG"><img src="main.PNG" width="400" height= "250"></a>
+<a href="login.PNG"><img src="login.PNG" width="400" height= "300"></a> <a href="main.PNG"><img src="main.PNG" width="400" height= "300"></a>
 
-<a href="s11.PNG"><img src="s11.PNG" width="400" height= "250"></a> <a href="s12.PNG"><img src="s12.PNG" width="400" height= "250"></a>
+<a href="s11.PNG"><img src="s11.PNG" width="400" height= "300"></a> <a href="s12.PNG"><img src="s12.PNG" width="400" height= "300"></a>
 
-<a href="load.PNG"><img src="load.PNG" width="400" height= "250"></a>
+<a href="load.PNG"><img src="load.PNG" width="800" height= 300"></a>
 
 </div>
 
