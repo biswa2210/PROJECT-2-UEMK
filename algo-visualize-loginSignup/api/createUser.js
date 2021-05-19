@@ -2,7 +2,11 @@ import axios from 'axios';
 
 const createUser = async (req, res) => {
   const { userId, userName } = req.body;
-
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
   axios
     .post('https://api.chatengine.io/projects/people/',
       { username: userName, secret: userId },
