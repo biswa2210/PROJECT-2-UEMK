@@ -69,13 +69,13 @@ It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advan
 
 <div align="center">
  
-<a href="s1.PNG"><img src="s1.PNG" width="400" height= "250"></a> <a href="s2.PNG"><img src="s2.PNG" width="400" height= "250"></a>
+<a href="s1.PNG"><img src="s1.PNG" width="400" height= "300"></a> <a href="s2.PNG"><img src="s2.PNG" width="400" height= "300"></a>
 
-<a href="s7.PNG"><img src="s7.PNG" width="400" height= "250"></a> <a href="s8.PNG"><img src="s8.PNG" width="400" height= "250"></a>
+<a href="s7.PNG"><img src="s7.PNG" width="400" height= "300"></a> <a href="s8.PNG"><img src="s8.PNG" width="400" height= "300"></a>
 
-<a href="s9.PNG"><img src="s9.PNG" width="400" height= "250"></a> <a href="s10.PNG"><img src="s10.PNG" width="400" height= "250"></a>
+<a href="s9.PNG"><img src="s9.PNG" width="400" height= "300"></a> <a href="s10.PNG"><img src="s10.PNG" width="400" height= "300"></a>
 
-<a href="s16.PNG"><img src="s16.PNG" width="400" height= "250"></a>
+<a href="s16.PNG"><img src="s16.PNG" width="800" height= "300"></a>
 
 </div>
 
