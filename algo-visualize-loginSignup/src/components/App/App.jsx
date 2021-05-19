@@ -2,7 +2,11 @@ import { useEffect } from 'react';
 import { useAuth, useResolved } from 'hooks';
 import { Login, Signup, Interface } from 'components';
 import { Switch, Route, useHistory } from 'react-router-dom';
-
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 export const App = () => {
   const history = useHistory();
   const { authUser } = useAuth();
