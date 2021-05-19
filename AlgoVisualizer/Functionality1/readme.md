@@ -90,11 +90,11 @@ For references for algorithms I have used [geeksforgeeks](https://www.geeksforge
 ## Screenshots :point_down: 
 
 <div align="center">
- <a href="s1.PNG"><img src="s1.PNG" width="400" height= "250"></a> <a href="s2.PNG"><img src="s2.PNG" width="400" height= "250"></a>
+ <a href="s1.PNG"><img src="s1.PNG" width="400" height= "300"></a> <a href="s2.PNG"><img src="s2.PNG" width="400" height= "300"></a>
 
-<a href="s3.PNG"><img src="s3.PNG" width="400" height= "250"></a> <a href="s4.PNG"><img src="s4.PNG" width="400" height= "250"></a>
+<a href="s3.PNG"><img src="s3.PNG" width="400" height= "300"></a> <a href="s4.PNG"><img src="s4.PNG" width="400" height= "300"></a>
 
-<a href="s5.PNG"><img src="s5.PNG" width="400" height= "250"></a> <a href="s6.PNG"><img src="s6.PNG" width="400" height= "250"></a>
+<a href="s5.PNG"><img src="s5.PNG" width="400" height= "300"></a> <a href="s6.PNG"><img src="s6.PNG" width="400" height= "300"></a>
 
-<a href="s16.PNG"><img src="s16.PNG" width="400" height= "250"></a>
+<a href="s16.PNG"><img src="s16.PNG" width="800" height= "300"></a>
 </div>
