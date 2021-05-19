@@ -1,5 +1,10 @@
 const TheirMessage = ({ lastMessage, message }) => {
   const isFirstMessageByUser = !lastMessage || lastMessage.sender.username !== message.sender.username;
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 
   return (
     <div className="message-row">
