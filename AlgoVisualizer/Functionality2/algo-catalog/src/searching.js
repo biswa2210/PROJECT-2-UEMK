@@ -1,6 +1,11 @@
 import sublist from './customImages/sublistsearch.jpg';
 import fibonacci from './customImages/Fibonaccisearch.jpg';
 import Ksearch from './customImages/Ksearch.jpg';
+        /*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 import Ubiquitous from './customImages/Ubiquitous.jpg';
 import Exponential from './customImages/Exponentialsearch.jpg';
 import Linear from './customImages/Linearsearch.jpg';
