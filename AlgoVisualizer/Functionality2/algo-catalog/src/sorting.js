@@ -1,6 +1,11 @@
 import Evenodd from './sortingimages/Bricksort.jpg';
 import Binaryinsertion from './sortingimages/Binaryinsertion.jpg';
 import Pegionhole from './sortingimages/Pegionhole.jpg';
+        /*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 import bubble from './sortingimages/Bubble.jpg'
 import Selection from './sortingimages/Selection.jpg';
 import Quick from './sortingimages/Quick.jpg';
