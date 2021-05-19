@@ -1,6 +1,11 @@
 import { sorting } from './sorting';
 import { searching } from './searching';
 import {Link } from "react-router-dom";
+        /*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 import Dijikstra from './othersimages/DIJKSTRAALGORITHM.jpg';
 import Astar from './othersimages/Astaralgo.jpg';
 import Amicable from './othersimages/Amicable.jpg';
