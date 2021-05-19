@@ -5,6 +5,12 @@ function getDistance(nodeOne, nodeTwo) {
   let y1 = parseInt(currentCoordinates[1]);
   let x2 = parseInt(targetCoordinates[0]);
   let y2 = parseInt(targetCoordinates[1]);
+  /*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
+
   if (x2 < x1) {
     if (nodeOne.direction === "up") {
       return [1, ["f"], "up"];
