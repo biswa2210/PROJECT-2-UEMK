@@ -1,5 +1,10 @@
 import Delayed from '../delayed';
 export function tenthOtherrandomized() {
+    /*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
     return (
       <section>
             <div class="routeloader">
