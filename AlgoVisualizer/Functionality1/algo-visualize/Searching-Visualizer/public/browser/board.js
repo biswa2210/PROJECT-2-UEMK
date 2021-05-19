@@ -1,4 +1,10 @@
 const Node = require("./node");
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
+
 const launchAnimations = require("./animations/launchAnimations");
 const launchInstantAnimations = require("./animations/launchInstantAnimations");
 const mazeGenerationAnimations = require("./animations/mazeGenerationAnimations");
