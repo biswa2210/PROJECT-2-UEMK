@@ -17,6 +17,12 @@
 *It is the 3rd functionality of my project.* Messaging apps (a.k.a. social messaging or chat applications) are apps and platforms that enable instant messaging. Many such apps have developed into broad platforms enabling status updates, chatbots, payments and conversational commerce (e-commerce via chat). They are normally centralised networks run by the servers of the platform's operators, unlike peer-to-peer protocols like XMPP. The DISCUSSION part will take the user to a login page where he has to give username and password (firebase-provided password in home page). Then he will be added in a discussion group for doubt clearing where I will answer his questions regarding this website. Here user can send messages and images in chat.
 </div>
 
+
+## Things needed for signup/login :point_down:
+
+ - [x] username
+ - [x] password(provided to user)
+
 ## LINK : :point_right: https://algo-visualize-disscussion.netlify.app/
 
 ## Purpose :point_down:
