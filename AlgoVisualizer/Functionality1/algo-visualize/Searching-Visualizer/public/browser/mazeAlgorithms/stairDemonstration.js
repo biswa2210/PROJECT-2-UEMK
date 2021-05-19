@@ -1,6 +1,12 @@
 function stairDemonstration(board) {
   let currentIdX = board.height - 1;
   let currentIdY = 0;
+  /*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
+
   let relevantStatuses = ["start", "target", "object"];
   while (currentIdX > 0 && currentIdY < board.width) {
     let currentId = `${currentIdX}-${currentIdY}`;
