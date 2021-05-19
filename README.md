@@ -1,4 +1,6 @@
-# ALGORITHMS-VIUALIZER-WEB-APPLICATION :star_struck: :e-mail: :bookmark_tabs: :open_file_folder: :computer: :iphone:
+# ALGORITHMS-VIUALIZER-WEB-APPLICATION :star_struck: 
+
+:open_file_folder: :computer: :iphone: :e-mail: :bookmark_tabs: 
 
 [![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-css3-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-javascript-yellow)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-bootstrap4-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-scss-brightgreen)](https://shields.io/) 
  
