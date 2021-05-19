@@ -1,5 +1,9 @@
 import firebase from "firebase";
-
+                        /*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 var firebaseApp = firebase.initializeApp({
   // Your firebase credentials
      apiKey: "AIzaSyCHATVE4UgIYyaHghfo4rSafg10lH1h7Vk",
