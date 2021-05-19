@@ -1,4 +1,4 @@
-# ALGORIHMS-VIUALIZER-PART :star_struck:
+# ALGORIHMS-VIUALIZER-PART :star_struck: :computer:
 
 [![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-css3-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-javascript-yellow)](https://shields.io/)
 
