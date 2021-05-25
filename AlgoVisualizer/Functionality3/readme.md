@@ -56,7 +56,7 @@ Functionality3
                  |       ├── MyMessage.jsx
                  |       └── TheirMessage.jsx
                  ├── App.css
-                 ├── App.css
+                 ├── App.js
                  └── index.js
 ```                 
 ## Making :point_down:
