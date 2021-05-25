@@ -50,6 +50,7 @@ Functionality4
             |           ├── Contact.js
             |           ├── home.js
             |           ├── Userguide.js
+            |           ├── feedback.js
             |           └── err404.js
             ├── service
             |     └── firebase.js
