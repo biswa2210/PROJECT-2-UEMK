@@ -70,20 +70,6 @@ Clicking on Algorithms user can see 72 cards of different algorithms. When user 
 ## Making :point_down:
 
 It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Vercel, Firebase, Chat Engine XDK, nodejs and Formik. It is fully responsive. For references for algorithms I have used [geeksforgeeks](https://www.geeksforgeeks.org/) and [wikipedia](https://www.wikipedia.org/). For all custom images in algorithms part I have used [photoshop](www.adobe.com/Adobe/Photoshop). 
-## Screenshots :point_down: 
-
-<div align="center">
- 
-<a href="s1.PNG"><img src="s1.PNG" width="400" height= "300"></a> <a href="s2.PNG"><img src="s2.PNG" width="400" height= "300"></a>
-
-<a href="s7.PNG"><img src="s7.PNG" width="400" height= "300"></a> <a href="s8.PNG"><img src="s8.PNG" width="400" height= "300"></a>
-
-<a href="s9.PNG"><img src="s9.PNG" width="400" height= "300"></a> <a href="s10.PNG"><img src="s10.PNG" width="400" height= "300"></a>
-
-<a href="s16.PNG"><img src="s16.PNG" width="800" height= "300"></a>
-
-</div>
-
 ## Available Scripts
 
 In the project directory, you can run:
@@ -150,3 +136,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Screenshots :point_down: 
+
+<div align="center">
+ 
+<a href="s1.PNG"><img src="s1.PNG" width="400" height= "300"></a> <a href="s2.PNG"><img src="s2.PNG" width="400" height= "300"></a>
+
+<a href="s7.PNG"><img src="s7.PNG" width="400" height= "300"></a> <a href="s8.PNG"><img src="s8.PNG" width="400" height= "300"></a>
+
+<a href="s9.PNG"><img src="s9.PNG" width="400" height= "300"></a> <a href="s10.PNG"><img src="s10.PNG" width="400" height= "300"></a>
+
+<a href="s16.PNG"><img src="s16.PNG" width="800" height= "300"></a>
+
+</div>
+
+
