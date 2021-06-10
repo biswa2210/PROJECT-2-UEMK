@@ -114,13 +114,6 @@ In discussion part for chatting I have used [chat engine](https://chatengine.io/
 
 <a href="pics/back.PNG"><img src="pics/back.PNG" width="400" height= "300"></a> <a href="pics/s16.PNG"><img src="pics/s16.PNG" width="400" height= "300"></a>
 </div>
-
-## Block Diagram of Project :point_down:
-
-<div align="center">
-<a href="pics/bl2.PNG"><img src="pics/bl2.PNG" width="800" height= "350"></a>
-</div>
-
 ## Available Scripts
 
 In the project directory, you can run:
@@ -187,3 +180,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Block Diagram of Project :point_down:
+
+<div align="center">
+<a href="pics/bl2.PNG"><img src="pics/bl2.PNG" width="800" height= "350"></a>
+</div>
+
+
