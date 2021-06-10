@@ -67,21 +67,6 @@ Functionality4
 ## Making :point_down:
 
 It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Firebase, Chat Engine XDK, nodejs and Formik. It is fully responsive. 
-
-## Screenshots :point_down: 
-<div align="center">
- 
-<img src="s1.PNG" width="400" height= "300"> <img src="s2.PNG" width="400" height= "300">
-
-<img src="s12.PNG" width="400" height= "300"> <img src="s13.PNG" width="400" height= "300">
-
-<img src="s14.PNG" width="400" height= "300"> <img src="s15.PNG" width="400" height= "300">
-
-<img src="feed.PNG" width="400" height= "300"> <img src="back.PNG" width="400" height= "300">
-
-<img src="s16.PNG" width="800" height= "300">
-</div>
-
 ## Available Scripts
 
 In the project directory, you can run:
@@ -148,6 +133,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Screenshots :point_down: 
+
+<div align="center">
+ 
+<img src="s1.PNG" width="400" height= "300"> <img src="s2.PNG" width="400" height= "300">
+
+<img src="s12.PNG" width="400" height= "300"> <img src="s13.PNG" width="400" height= "300">
+
+<img src="s14.PNG" width="400" height= "300"> <img src="s15.PNG" width="400" height= "300">
+
+<img src="feed.PNG" width="400" height= "300"> <img src="back.PNG" width="400" height= "300">
+
+<img src="s16.PNG" width="800" height= "300">
+</div>
+
 
 
 
