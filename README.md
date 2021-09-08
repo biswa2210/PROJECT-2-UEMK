@@ -40,6 +40,14 @@ ALGORITHMS PART--\>https://algo-visualize-algorithms.netlify.app/<br>
 DISCUSSION PART--\>https://algo-visualize-disscussion.netlify.app/<br>
 FEEDBACK PART--\>https://algo-visualize-feedback.netlify.app<br>***
 
+## RESEARCH PAPER PUBLISHED IJRESM :point_down:
+
+The research paper of this project has been published in International Journal of Research in Engineering, Science and Management in 6 th Sept, 2021 in vol 4, issue 9. The name of the research paper is **Web-Based Dynamic Algorithm Visualizer Along with Chat Engine SDK for Neophytes**. I have built the project and all implementation part but for group project purpose there are total 4 authors of this research paper. 
+
+## LINK OF PUBLISHED RESEARCH PAPER :point_down:
+## https://journals.resaim.com/ijresm/article/view/1290
+## https://journals.resaim.com/ijresm/article/view/1290/1234
+
 ## Purpose :point_down:
 
 <div align="justified">
@@ -68,6 +76,7 @@ There are two principal applications of algorithm visualization: research and ed
 </div>
 
 ## Folder Structure :point_down:
+
 ```bash
 ├── PROJECT-2-UEMK
 │   ├── Functionality1
@@ -83,6 +92,7 @@ There are two principal applications of algorithm visualization: research and ed
 |
 └── algo-visualize-loginsignup
 ```
+
 ## Making :point_down:
 
 I have created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Vercel, Firebase, Chat Engine XDK, nodejs and Formik. It is fully responsive.<br>
@@ -114,6 +124,7 @@ In discussion part for chatting I have used [chat engine](https://chatengine.io/
 
 <a href="pics/back.PNG"><img src="pics/back.PNG" width="400" height= "300"></a> <a href="pics/s16.PNG"><img src="pics/s16.PNG" width="400" height= "300"></a>
 </div>
+
 ## Available Scripts
 
 In the project directory, you can run:
