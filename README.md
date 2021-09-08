@@ -49,7 +49,7 @@ The research paper of this project has been published in International Journal o
 **https://journals.resaim.com/ijresm/article/view/1290<br>
 https://journals.resaim.com/ijresm/article/view/1290/1234**
 
-## Block Diagram of Project :point_down:
+## Cirtificate for publishing Research Paper in IJRESM :point_down:
 
 <div align="center">
 <a href="pics/cir.PNG"><img src="pics/cir.PNG" width="800" height= "350"></a>
