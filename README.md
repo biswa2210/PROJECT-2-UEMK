@@ -45,8 +45,15 @@ FEEDBACK PART--\>https://algo-visualize-feedback.netlify.app<br>***
 The research paper of this project has been published in International Journal of Research in Engineering, Science and Management in 6 th Sept, 2021 in vol 4, issue 9. The name of the research paper is **Web-Based Dynamic Algorithm Visualizer Along with Chat Engine SDK for Neophytes**. I have built the project and all implementation part but for group project purpose there are total 4 authors of this research paper. 
 
 ## LINK OF PUBLISHED RESEARCH PAPER :point_down:
-## https://journals.resaim.com/ijresm/article/view/1290
-## https://journals.resaim.com/ijresm/article/view/1290/1234
+
+**https://journals.resaim.com/ijresm/article/view/1290<br>
+https://journals.resaim.com/ijresm/article/view/1290/1234**
+
+## Block Diagram of Project :point_down:
+
+<div align="center">
+<a href="pics/cir.PNG"><img src="pics/cir.PNG" width="800" height= "350"></a>
+</div>
 
 ## Purpose :point_down:
 
@@ -125,6 +132,12 @@ In discussion part for chatting I have used [chat engine](https://chatengine.io/
 <a href="pics/back.PNG"><img src="pics/back.PNG" width="400" height= "300"></a> <a href="pics/s16.PNG"><img src="pics/s16.PNG" width="400" height= "300"></a>
 </div>
 
+## Block Diagram of Project :point_down:
+
+<div align="center">
+<a href="pics/bl2.PNG"><img src="pics/bl2.PNG" width="800" height= "350"></a>
+</div>
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -192,10 +205,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-## Block Diagram of Project :point_down:
 
-<div align="center">
-<a href="pics/bl2.PNG"><img src="pics/bl2.PNG" width="800" height= "350"></a>
-</div>
 
 
