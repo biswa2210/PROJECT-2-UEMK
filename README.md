@@ -35,6 +35,10 @@
 
 ## LINKS :point_down:
 
+## ALGORITHM VISUALIZER DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=8_QAOpUdaIY&list=PL0lbDlMJ1h4hASHfEE-4cMS7CHRgtoxH5&index=1&t=16s">Click here to watch</a>
+
+## WEB DEV PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=8_QAOpUdaIY&list=PL0lbDlMJ1h4hASHfEE-4cMS7CHRgtoxH5">Click here to watch</a>
+
 ***PROJECT--\>https://algo-visualize-login-signup.vercel.app/login<br>
 ALGORITHMS PART--\>https://algo-visualize-algorithms.netlify.app/<br>
 DISCUSSION PART--\>https://algo-visualize-disscussion.netlify.app/<br>
